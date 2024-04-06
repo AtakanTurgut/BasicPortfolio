@@ -1,12 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Repositories.Context;
 
 namespace BasicPortfolio.ViewComponents
 {
     public class _SkillPartialComponent : ViewComponent
     {
+        PortfolioContext context = new PortfolioContext();
+
         public IViewComponentResult Invoke() 
         {
-            return View(); 
+            var values = context.Skills.ToList();
+
+            return View(values); 
         }
     }
 }

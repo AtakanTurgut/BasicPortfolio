@@ -1,12 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Repositories.Context;
 
 namespace BasicPortfolio.ViewComponents
 {
     public class _ExperiencePartialComponent : ViewComponent
     {
+        PortfolioContext context = new PortfolioContext();
+
         public IViewComponentResult Invoke() 
         {
-            return View(); 
+            var values = context.Experiences.ToList();
+
+            return View(values); 
         }
     }
 }

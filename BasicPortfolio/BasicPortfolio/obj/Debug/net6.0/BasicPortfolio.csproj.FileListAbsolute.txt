@@ -251,3 +251,4 @@ C:\Users\Excalibur\Desktop\BasicPortfolio\BasicPortfolio\BasicPortfolio\bin\Debu
 C:\Users\Excalibur\Desktop\BasicPortfolio\BasicPortfolio\BasicPortfolio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Excalibur\Desktop\BasicPortfolio\BasicPortfolio\BasicPortfolio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Excalibur\Desktop\BasicPortfolio\BasicPortfolio\BasicPortfolio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Excalibur\Desktop\BasicPortfolio\BasicPortfolio\BasicPortfolio\obj\Debug\net6.0\BasicPortfolio.sourcelink.json

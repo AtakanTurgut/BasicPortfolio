@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|c:\\users\\excalibur\\desktop\\basicportfolio\\basicportfolio\\basicportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|solutionrelative:basicportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|c:\\users\\excalibur\\desktop\\basicportfolio\\basicportfolio\\basicportfolio\\views\\shared\\components\\_experiencepartialcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|solutionrelative:basicportfolio\\views\\shared\\components\\_experiencepartialcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|c:\\users\\excalibur\\desktop\\basicportfolio\\basicportfolio\\basicportfolio\\viewcomponents\\_experiencepartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|solutionrelative:basicportfolio\\viewcomponents\\_experiencepartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|c:\\users\\excalibur\\desktop\\basicportfolio\\basicportfolio\\basicportfolio\\viewcomponents\\_featurepartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|solutionrelative:basicportfolio\\viewcomponents\\_featurepartialcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|c:\\users\\excalibur\\desktop\\basicportfolio\\basicportfolio\\basicportfolio\\views\\experience\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D420BE7-7E95-4B71-8A84-B56FFA56BE28}|BasicPortfolio\\BasicPortfolio.csproj|solutionrelative:basicportfolio\\views\\experience\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,53 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "BasicPortfolio\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "BasicPortfolio\\Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T22:01:40.551Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ExperiencePartialComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\ViewComponents\\_ExperiencePartialComponent.cs",
-              "RelativeDocumentMoniker": "BasicPortfolio\\ViewComponents\\_ExperiencePartialComponent.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\ViewComponents\\_ExperiencePartialComponent.cs",
-              "RelativeToolTip": "BasicPortfolio\\ViewComponents\\_ExperiencePartialComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T23:19:54.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_FeaturePartialComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\ViewComponents\\_FeaturePartialComponent.cs",
-              "RelativeDocumentMoniker": "BasicPortfolio\\ViewComponents\\_FeaturePartialComponent.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\ViewComponents\\_FeaturePartialComponent.cs",
-              "RelativeToolTip": "BasicPortfolio\\ViewComponents\\_FeaturePartialComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Experience\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasicPortfolio\\Views\\Experience\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Experience\\Index.cshtml",
+              "RelativeToolTip": "BasicPortfolio\\Views\\Experience\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T23:19:55.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Shared\\Components\\_ExperiencePartialComponent\\Default.cshtml",
-              "RelativeDocumentMoniker": "BasicPortfolio\\Views\\Shared\\Components\\_ExperiencePartialComponent\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\BasicPortfolio\\BasicPortfolio\\BasicPortfolio\\Views\\Shared\\Components\\_ExperiencePartialComponent\\Default.cshtml",
-              "RelativeToolTip": "BasicPortfolio\\Views\\Shared\\Components\\_ExperiencePartialComponent\\Default.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T23:19:49.402Z",
+              "WhenOpened": "2024-04-07T22:37:04.053Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

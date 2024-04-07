@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+@await Component.InvokeAsync("_LayoutHeadPartialComponent")
+<body>
+    <div class="wrapper">
+
+        @await Component.InvokeAsync("_LayoutNavbarPartialComponent")
+
+        @await Component.InvokeAsync("_LayoutSidebarPartialComponent")
+
+        @RenderBody()
+
+    </div>
+</body>
+
+@await Component.InvokeAsync("_LayoutScriptPartialComponent")
+
+</html>

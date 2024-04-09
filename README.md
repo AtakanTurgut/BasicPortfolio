@@ -5,7 +5,7 @@ This website is my portfolio.
 ### Project Layers
 ```cs
 Domain
-Repository      => Repository
+Repository      => Domain
 BasicPortfolio  => Domain + Repository
 ```
 
